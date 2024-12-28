@@ -1,6 +1,6 @@
-👋 Hi, I’m Amarnadha Reddy Kolla, 
+# 👋 Hi, I’m Amarnadha Reddy Kolla
 
-A Cloud and Infrastructure Engineer based in Bangalore with expertise in:
+## A Cloud and Infrastructure Engineer based in Bangalore with expertise in:
 
 🌐 Infrastructure as Code (IaC): Proficient in Terraform for building scalable and automated infrastructure.
 
@@ -15,6 +15,7 @@ A Cloud and Infrastructure Engineer based in Bangalore with expertise in:
 🔭 Current focus: Optimizing cloud infrastructure and exploring advanced Kubernetes and Terraform techniques.
 
 📚 Learning: Enhancing my expertise in Terraform, cloud-native tools, and AWS best practices.
+
 
 Skills
 
