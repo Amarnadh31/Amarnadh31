@@ -13,6 +13,7 @@ A Cloud and Infrastructure Engineer based in Bangalore with expertise in:
 🖥️ Middleware Administration: Proficient in IBM MQ, including troubleshooting and failover management.
 
 🔭 Current focus: Optimizing cloud infrastructure and exploring advanced Kubernetes and Terraform techniques.
+
 📚 Learning: Enhancing my expertise in Terraform, cloud-native tools, and AWS best practices.
 
 Skills
