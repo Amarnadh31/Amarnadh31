@@ -13,6 +13,6 @@ A Cloud and Infrastructure Engineer based in Bangalore with expertise in:
 
 Skills
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" >](https://git-scm.com/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" >](https://www.docker.com/) [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/terraform.svg" width="36" height="36" >](https://www.terraform.io/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" >](https://git-scm.com/) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" >](https://www.docker.com/) [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/terraform.svg" width="36" height="36" >](https://www.terraform.io/) [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/linux.svg" width="36" height="36" >](https://www.linux.org//)
 
 
