@@ -13,7 +13,7 @@ A Cloud and Infrastructure Engineer based in Bangalore with expertise in:
 
 Skills
 
-[<img src="https://images.app.goo.gl/trqMQdGffcpbVs8K6">](https://git-scm.com/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">](https://git-scm.com/)
 
 
 https://www.terraform.io/
