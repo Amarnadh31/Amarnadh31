@@ -13,6 +13,6 @@ A Cloud and Infrastructure Engineer based in Bangalore with expertise in:
 
 Skills
 
-[<img src="https://github.com/GIT">](https://git-scm.com/)
+[<img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/git-logo">](https://git-scm.com/)
 
 https://www.terraform.io/
